@@ -6,4 +6,4 @@ Submit Hello-World programs in any language, it should print the string 'Hello B
 
 ## If completed
 
-Thanks for contributing, check out other projects as well.
+Thanks for contributing in this repo, check out other projects as well.
